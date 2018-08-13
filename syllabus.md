@@ -3,8 +3,34 @@ title: Course Syllabus
 permalink: /syllabus/
 layout: single
 ---
-| Date          | Topic | Lecture  | Reading | Assignment
+| Date          | Topic | Notes  | Reading | Assignment
 | ------------- | ----- | -------  | ------- | ----------
-| 2018-01-01 | Sample topic!  | [Demos](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp18&subPath=lec/lec01.ipynb), [Slides](https://web.archive.org/web/20180505174510/http://data8.org/materials-sp18/lec/lec01PDF.pdf) | [1.1](/textbook/01/1/intro), [1.2](/textbook/01/2/why-data-science), [1.3](textbook/01/3/plotting-the-classics) | [Lab 01: Expressions](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp18&subPath=materials/sp18/lab/lab01/lab01.ipynb) (Due Tuesday)
-| 2018-02-02 |  |  | | |
-| 2018-03-03 |  |  | | |
+| 2018-08-27 | Lecture 0: Cause and Effect | | | | | 
+| 2018-08-29 | Lab 0 | | | | | 
+| 2018-09-03 | Lecture 1: Python Basics | | | | | 
+| 2018-09-05 | Lab 1 | | | | | 
+| 2018-09-10 | Lecture 2: Visualization: Graphs and Tables | | | | | 
+| 2018-09-12 | Lab 2 | | | | | 
+| 2018-09-17 | Lecture 3: Arrays and Tables | | | | | 
+| 2018-09-19 | Lab 3 | | | | | 
+| 2018-09-24 | Lecture 4: Functions and Tables | | | | | 
+| 2018-09-26 | Lab 4 | | | | | 
+| 2018-10-01 | Lecture 5: Distributions and Random Sampling | | | | | 
+| 2018-10-03 | Midterm Exam 1 | | | | | 
+| 2018-10-10 | Lab 5 | | | | | 
+| 2018-10-15 | Lecture 6: Estimation | | | | | 
+| 2018-10-17 | Lab 6 | | | | | 
+| 2018-10-22 | Lecture 7: Prediction | | | | | 
+| 2018-10-24 | Lab 7 | | | | | 
+| 2018-10-29 | Lecture 8: Assessing Predictions and Models | | | | | 
+| 2018-10-31 | Lab 8 | | | | | 
+| 2018-11-05 | Lecture 9: Predicting Categories | | | | | 
+| 2018-11-07 | Lab 9 | | | | | 
+| 2018-11-12 | Lecture 10: Comparison, Causality and Decisions | | | | | 
+| 2018-11-14 | Lab 10 | | | | | 
+| 2018-11-19 | Lecture 11: Scraping data | | | | | 
+| 2018-11-26 | Lecture 12 | | | | | 
+| 2018-11-28 | Midterm Exam 2 | | | | | 
+| 2018-12-03 | Lecture 13: Ethics  | | | | | 
+| 2018-12-05 | Conclusion | | | | | 
+| 2018-12-12 | Project Presentations | | | | | 

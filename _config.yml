@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data 8 with Jekyll"
+title                    : "Foundations of Data Science"
 title_separator          : "-"
-name                     : "Berkeley DSEP"
+name                     : "Duke Computer Science"
 description              : ""
-url                      : "https://predictablynoisy.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/data8-template" # the subpath of your site, e.g. "/blog"
-hub_url                  : "http://104.155.140.67"  # The URL for your JupyterHub. Should be a string.
+url                      : "https://www.cs.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/courses/compsci190/fall18" # the subpath of your site, e.g. "/blog"
+hub_url                  : "http://jupyterhub.cs.duke.edu"  # The URL for your JupyterHub. Should be a string.
 hub_name                 : "DataHub"  # The name of your JupyterHub
 textbook_url             : "https://github.com/data-8/textbook"  # The URL for your version of the textbook on GitHub.
 textbook_branch          : "gh-pages"  # The branch on which your textbook is hosted.
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "dukecompsci"
 facebook:
   username               :
   app_id                 :
@@ -102,12 +102,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Data 8 Team"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Jeff Forbes"
+  avatar           : "/web_resources/logo/square/blue/cslogo_square_blue.SMALL.png"
   bio              : ""
-  location         : "Berkeley, CA."
+  location         : "Durham, NC."
   email            :
-  uri              :
+  uri              : "http://www.cs.duke.edu/forbes"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "jrnf"
   gitlab           :
   google_plus      :
   keybase          :
@@ -127,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "jrnf"
   vine             :
   weibo            :
   xing             :
