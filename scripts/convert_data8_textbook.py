@@ -35,7 +35,7 @@ def create_hub_link(filepath, binder=False):
         filepath_section = 'filepath={}'.format(filepath)
     else:
         interact_link = '{{ site.hub_url }}/hub/user-redirect/git-pull?repo={{ site.textbook_url }}'
-        filepath_section = '&branch={{ site.textbook_branch }}' + '&subPath={}'.format(filepath)
+        filepath_section = '&branch={{ site.textbook_branch }}' + "/03/01/" + '&subPath={}'.format(filepath)
     return interact_link + filepath_section
 
 # Copy over readme

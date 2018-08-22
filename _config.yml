@@ -24,7 +24,7 @@ url                      : "https://www.cs.duke.edu" # the base hostname & proto
 baseurl                  : "/courses/compsci190/fall18" # the subpath of your site, e.g. "/blog"
 hub_url                  : "http://jupyterhub.cs.duke.edu"  # The URL for your JupyterHub. Should be a string.
 hub_name                 : "DataHub"  # The name of your JupyterHub
-textbook_url             : "https://github.com/data-8/textbook"  # The URL for your version of the textbook on GitHub.
+textbook_url             : "https://dukecs.github.io"  # The URL for your version of the textbook on GitHub.
 textbook_branch          : "gh-pages"  # The branch on which your textbook is hosted.
 repository               : # GitHub username/repo-name for this site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
