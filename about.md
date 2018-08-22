@@ -36,4 +36,3 @@ This course is a wholesale adoption of the
 [Data 8 course](http://data8.org)  developed at UC Berkeley.
 
 Thank you to [John DeNero](https://denero.org/), [Mine Çetinkaya-Rundel](https://www2.stat.duke.edu/~mc301/), [Kristin Stephens-Martinez](http://www.cs.duke.edu/~ksm), [Minna Ng](https://dibs.duke.edu/scholars/minna-ng), Max Bartlett, Jose San-Martin, Man-Lin Hsiao, and Liam Pulsifer for their help in developing this course.
->>>>>>> origin/master
