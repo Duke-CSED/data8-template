@@ -15,10 +15,10 @@ projects using the Python programming language. In considering applications, we 
 
 ### Instructor
 
-**Professor** [Jeff Forbes](https://www.cs.duke.edu/forbes) 
-**Email** forbes@cs.duke.edu 
-**Phone** (919) 660-6550 
-**Office Hours** TBD in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561) 
+**Professor** [Jeff Forbes](https://www.cs.duke.edu/forbes)  
+**Email** forbes@cs.duke.edu  
+**Phone** (919) 660-6550  
+**Office Hours** TBD in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)  
 
 ### Undergraduate Teaching Assistants
 
