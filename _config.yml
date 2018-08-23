@@ -19,15 +19,15 @@ locale                   : "en-US"
 title                    : "Foundations of Data Science"
 title_separator          : "-"
 name                     : "Duke Computer Science"
-description              : ""
+description              : "Introduction to programming and statistical infernece"
 url                      : "https://www.cs.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/courses/compsci190/fall18" # the subpath of your site, e.g. "/blog"
 hub_url                  : "http://jupyterhub.cs.duke.edu"  # The URL for your JupyterHub. Should be a string.
-hub_name                 : "DataHub"  # The name of your JupyterHub
-textbook_url             : "https://dukecs.github.io"  # The URL for your version of the textbook on GitHub.
+hub_name                 : "JupyterHub"  # The name of your JupyterHub
+textbook_url             : "https://github.com/DukeCS/textbook"  # The URL for your version of the textbook on GitHub.
 textbook_branch          : "gh-pages"  # The branch on which your textbook is hosted.
 repository               : # GitHub username/repo-name for this site
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/banner.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "dukecompsci"
+  username               : # "dukecompsci"
 facebook:
   username               :
   app_id                 :
@@ -115,7 +115,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jrnf"
+  github           : "DukeCS/FoDS-f18"
   gitlab           :
   google_plus      :
   keybase          :
@@ -127,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "jrnf"
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :

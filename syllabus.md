@@ -54,9 +54,7 @@ Students will be assesssed in the following ways:
 
 Students will work together to solve problems in lab (Wednesdays).
 
-* **Individual Readiness Assurance (iRA)**. To assess a student’s knowledge of the assigned reading
-
-material for a topic, students will be take an iRA. The iRA is made up of multiple-choice questions. How well a student does is an indicator of how ready they are to proceed with deepening and building their knowledge, and what areas to review.
+* **Individual Readiness Assurance (iRA)**. To assess a student’s knowledge of the assigned reading material for a topic, students will be take an iRA. The iRA is made up of multiple-choice questions. How well a student does is an indicator of how ready they are to proceed with deepening and building their knowledge, and what areas to review.
 
 * **Team Readiness Assurance (tRA)**. After the iRA, the same multiple-choice questions are answered
 as a team. Teams select answers after discussion of the questions.
