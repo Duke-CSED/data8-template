@@ -1,4 +1,3 @@
----
 title: Course Syllabus
 permalink: /syllabus/
 layout: single
@@ -10,8 +9,8 @@ This Syllabus is a working document and will be updated.
 
 | Date          | Topic | Notes  | Reading | Assignment
 | ------------- | ----- | -------  | ------- | ----------
-| 2018-08-27 | Lecture 0: Cause and Effect | | | | | 
-| 2018-08-29 | Lab 0 | | | | | 
+| 2018-08-27 | Lecture 0: Introduction | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec00.ipynb&branch=master&app=notebook), [Slides](../notes/00-welcome.pdf)| [Chapter 1](https://dukecs.github.io/textbook/chapters/01/what-is-data-science) | | 
+| 2018-08-29 | Lab 0: Notebooks and Expressions | [Slides](../notes/01-cause.pdf) | | Chapter [2](https://dukecs.github.io/textbook/chapters/02/) &  [3](https://dukecs.github.io/textbook/chapters/03/) | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab00/lab00.ipynb&branch=master&app=notebook) | 
 | 2018-09-03 | Lecture 1: Python Basics | | | | | 
 | 2018-09-05 | Lab 1 | | | | | 
 | 2018-09-10 | Lecture 2: Visualization: Graphs and Tables | | | | | 
@@ -38,7 +37,7 @@ This Syllabus is a working document and will be updated.
 | 2018-11-28 | Midterm Exam 2 | | | | | 
 | 2018-12-03 | Lecture 13: Ethics  | | | | | 
 | 2018-12-05 | Conclusion | | | | | 
-| 2018-12-12 | Project Presentations | | | | | 
+| 2018-12-16 | Project Presentations | | | | | 
 
 ## Materials & Resources
 
@@ -54,9 +53,7 @@ Students will be assesssed in the following ways:
 
 Students will work together to solve problems in lab (Wednesdays).
 
-* **Individual Readiness Assurance (iRA)**. To assess a student’s knowledge of the assigned reading
-
-material for a topic, students will be take an iRA. The iRA is made up of multiple-choice questions. How well a student does is an indicator of how ready they are to proceed with deepening and building their knowledge, and what areas to review.
+* **Individual Readiness Assurance (iRA)**. To assess a student’s knowledge of the assigned reading material for a topic, students will be take an iRA. The iRA is made up of multiple-choice questions. How well a student does is an indicator of how ready they are to proceed with deepening and building their knowledge, and what areas to review.
 
 * **Team Readiness Assurance (tRA)**. After the iRA, the same multiple-choice questions are answered
 as a team. Teams select answers after discussion of the questions.
