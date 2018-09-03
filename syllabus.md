@@ -1,3 +1,4 @@
+---
 title: Course Syllabus
 permalink: /syllabus/
 layout: single
