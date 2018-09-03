@@ -10,7 +10,7 @@ This Syllabus is a working document and will be updated.
 | Date          | Topic | Notes  | Reading | Assignment
 | ------------- | ----- | -------  | ------- | ----------
 | 2018-08-27 | Lecture 0: Introduction | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec00.ipynb&branch=master&app=notebook), [Slides](../notes/00-welcome.pdf)| [Chapter 1](https://dukecs.github.io/textbook/chapters/01/what-is-data-science) | | 
-| 2018-08-29 | Lab 0: Notebooks and Expressions | [Slides](../notes/01-cause.pdf) | | Chapter [2](https://dukecs.github.io/textbook/chapters/02/) &  [3](https://dukecs.github.io/textbook/chapters/03/) | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab00/lab00.ipynb&branch=master&app=notebook) | 
+| 2018-08-29 | Lab 0: Notebooks and Expressions | [Slides](../notes/01-cause.pdf) | Chapter [2](https://dukecs.github.io/textbook/chapters/02/causality-and-experiments) &  [3](https://dukecs.github.io/textbook/chapters/03/programming-in-python) | [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab00/lab00.ipynb&branch=master&app=notebook) | 
 | 2018-09-03 | Lecture 1: Python Basics | | | | | 
 | 2018-09-05 | Lab 1 | | | | | 
 | 2018-09-10 | Lecture 2: Visualization: Graphs and Tables | | | | | 
