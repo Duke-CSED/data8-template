@@ -2,7 +2,13 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}"><img src ="/courses/compsci190/fall18/images/image.png"></a>
+        <a class="site-title" href="{{ '/' | relative_url }}">
+	  <script type = "text/javascript"> if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { <!-- Checks whether device is mobile -->
+	    document.write("{{site.title}}")
+	    } else {
+	    document.write("<img src ='/courses/compsci190/fall18/images/image.png'>")
+	    } </script>
+	</a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
