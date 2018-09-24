@@ -17,8 +17,8 @@ This Syllabus is a working document and will be updated.
 | 2018-09-10 | Lecture 2: Arrays and Tables | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec02.ipynb&branch=master&app=notebook), [Slides](../notes/03-tables.pdf) | | [HW 1](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=hw/hw01/hw01.ipynb&branch=master&app=notebook) | 
 | 2018-09-12 | Lab 2 | [Slides](../notes/03-lab2.pdf) | | [iRA](http://bit.ly/FoDS-f18-lab02-iRA), [tRA](http://bit.ly/FoDS-f18-lab02-tRA), & [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab02/lab02.ipynb&branch=master&app=notebook) |  
 | 2018-09-17 | Lecture 3: Visualization: Graphs and Tables | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec03.ipynb&branch=master&app=notebook), [Slides](../notes/04-viz.pdf) | | [HW 2](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=hw/hw02/hw02.ipynb&branch=master&app=notebook) | 
-| 2018-09-19 | Lab 3 | | | | | 
-| 2018-09-24 | Lecture 4: Functions and Tables | | | | | 
+| 2018-09-19 | Lab 3 | [Slides](../notes/04-lab3.pdf) | | [iRA](http://bit.ly/FoDS-f18-lab03-iRA), [tRA](http://bit.ly/FoDS-f18-lab03-tRA), & [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab03/lab03.ipynb&branch=master&app=notebook) |  
+| 2018-09-24 | Lecture 4: Functions and Tables | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec04.ipynb&branch=master&app=notebook), [Slides](../notes/05-func.pdf) | | | 
 | 2018-09-26 | Lab 4 | | | | | 
 | 2018-10-01 | Lecture 5: Distributions and Random Sampling | | | | | 
 | 2018-10-03 | Midterm Exam 1 | | | | | 
@@ -143,3 +143,19 @@ that enable students with disabilities to have equal access to all Duke Universi
 activities. Students are responsible for contacting SDAO and for looking up deadlines for
 accommodation requests.
 
+### Collaboration Policy
+
+We encourage collaboration on much of the work you'll do in this course. However, in some situations, e.g., exams, your work must be done by yourself, consulting only those resources explicitly permitted by your instructor.
+
+Studying together is always encouraged, especially when preparing for midterm exams. At other times you may be assigned to a group, e.g., for labs, homeworks, and projects.
+
+If you aren't sure what the collaboration policy is on a lab, classwork, homework, or other project, please ask!
+
+
+Most work in this course will be done in pairs or teams. With the exception of exams, we encourage you to discuss all of the course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.
+
+When you collaborate, you should follow the following rules in intereacting with students outside your group"
+
+- You must not share your code or answers directly with other students not in your assigned group.
+- You must not look at solution sets or program code from other semesters.
+- Cite any code or ideas you use.
