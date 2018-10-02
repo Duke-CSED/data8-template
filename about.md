@@ -28,6 +28,8 @@ projects using the Python programming language. In considering applications, we 
 
 **Office Hours**  Mondays 9am-10am, Thursdays 3-4, or by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)
 
+<img src="https://www2.cs.duke.edu/images/pic-fac/forbes.jpg" width="150" height="150"> <!--- No significance to "150", I just played around with the numbers --->
+
 ### Undergraduate Teaching Assistants
 
 Max Bartlett
@@ -38,15 +40,11 @@ Max Bartlett
 
 **Email** maxwell.bartlett@duke.edu 
 
-Kevin Zheng
-
 <img src="/courses/compsci190/fall18/assets/images/zheng.jpg" width="150" height="150">
 
 **Office Hours** Thursdays 7-8pm in Vondy (West Campus)
 
 **Email** kevin.z.zheng@duke.edu
-
-
 
 ## Acknowledgements
 
