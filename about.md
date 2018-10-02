@@ -18,10 +18,15 @@ projects using the Python programming language. In considering applications, we 
 ## Staff
 ### Instructor
 
+<img src="https://www2.cs.duke.edu/images/pic-fac/forbes.jpg" align="left" style="margin-right: 20px" width="150" height="150"> <!--- No significance to "150", I just played around with the numbers --->
+
 **Professor** [Jeff Forbes](https://www.cs.duke.edu/forbes)  
+
 **Email** forbes@cs.duke.edu  
-**Phone** (919) 660-6550  
-**Office Hours** Mondays 9am-10am, Thursdays 3-4, or by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)  
+
+**Phone** (919) 660-6550
+
+**Office Hours**  Mondays 9am-10am, Thursdays 3-4, or by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)
 
 <img src="https://www2.cs.duke.edu/images/pic-fac/forbes.jpg" width="150" height="150"> <!--- No significance to "150", I just played around with the numbers --->
 
@@ -31,9 +36,15 @@ Max Bartlett
 
 <img src="/courses/compsci190/fall18/assets/images/bartlett.jpg" width="150" height="150">
 
-Kevin Zheng
+**Office Hours** Sunday 4-6pm in Trinity Cafe (East Campus)
 
-<img src="/courses/compsci190/fall18/assets/images/zheng.jpg"  width="150" height="150">
+**Email** maxwell.bartlett@duke.edu 
+
+<img src="/courses/compsci190/fall18/assets/images/zheng.jpg" width="150" height="150">
+
+**Office Hours** Thursdays 7-8pm in Vondy (West Campus)
+
+**Email** kevin.z.zheng@duke.edu
 
 ## Acknowledgements
 
