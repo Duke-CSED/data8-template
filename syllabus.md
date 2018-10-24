@@ -23,10 +23,10 @@ This Syllabus is a working document and will be updated.
 | 2018-10-01 | Lecture 5: Pivots, Joins, & Review | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec05.ipynb&branch=master&app=notebook), [Slides](../notes/06-test1.pdf), & [Review Qs](../notes/test1-review.pdf) | Chapters [1-8](https://dukecs.github.io/textbook/chapters/intro) | | | 
 | 2018-10-03 | Midterm Exam 1 | | | | | 
 | 2018-10-10 | Guest Lecture by Kamau Bobb | | | [Project 1](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=proj/proj1/project1.ipynb&branch=master&app=notebook) | | 
-| 2018-10-15 | Lecture 6: Estimation | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec06.ipynb&branch=master&app=notebook), [Slides](../notes/07-chance.pdf), & [Test 1 Solutions](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/test1.ipynb&branch=master&app=notebook) | Chapter [9](https://dukecs.github.io/textbook/chapters/09/Randomness) | | | 
-| 2018-10-17 | Lab 6 | | | | | 
-| 2018-10-22 | Lecture 7: Prediction | | | | | 
-| 2018-10-24 | Lab 7 | | | | | 
+| 2018-10-15 | Lecture 6: Estimation | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec06.ipynb&branch=master&app=notebook), [Slides](../notes/07-chance.pdf), & [Test 1 Solutions](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/test1.ipynb&branch=master&app=notebook) | Chapter [9](https://dukecs.github.io/textbook/chapters/09/Randomness) & [10](https://dukecs.github.io/textbook/chapters/10/Sampling_and_Empirical_Distributions) | | | 
+| 2018-10-17 | Lab 5: Simulations | | | [iRA](http://bit.ly/FoDS-f18-lab05-iRA), [tRA](http://bit.ly/FoDS-f18-lab05-tRA), & [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab05/lab05.ipynb&branch=master&app=notebook) |
+| 2018-10-22 | Lecture 7: Sampling | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lec/lec07.ipynb&branch=master&app=notebook), [Slides](../notes/08-sampling.pdf) | | | | 
+| 2018-10-24 | Lab 6:  Probability & Simulation | | | [iRA](http://bit.ly/FoDS-f18-lab06-iRA), [tRA](http://bit.ly/FoDS-f18-lab06-tRA-0), & [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-f18&subPath=lab/lab06/lab06.ipynb&branch=master&app=notebook) ||
 | 2018-10-29 | Lecture 8: Assessing Predictions and Models | | | | | 
 | 2018-10-31 | Lab 8 | | | | | 
 | 2018-11-05 | Lecture 9: Predicting Categories | | | | | 
