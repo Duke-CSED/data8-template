@@ -4,9 +4,6 @@ author_profile: false
 permalink: /about/
 ---
 
-Given data arising from some real-world phenomenon, how does one turn that data into knowledge and that knowledge into action?
-
-Students will learn critical concepts and skills in computer programming and statistical inference in the process of conducting analysis of real-world datasets. Students will write computer programs for projects using the Python programming language. No prior programming experience or statistics coursework is required.
 
 Given data arising from some real-world phenomenon, how does one turn
 that data into knowledge and that knowledge into action? Students will
@@ -26,25 +23,27 @@ projects using the Python programming language. In considering applications, we 
 
 **Phone** (919) 660-6550
 
-**Office Hours**  Mondays 9am-10am, Thursdays 3-4, or by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)
+**Office Hours** TBD and by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)
 
-<img src="https://www2.cs.duke.edu/images/pic-fac/forbes.jpg" width="150" height="150"> <!--- No significance to "150", I just played around with the numbers --->
 
 ### Undergraduate Teaching Assistants
 
-Max Bartlett
+Morgan Smith
 
-<img src="/courses/compsci190/fall18/assets/images/bartlett.jpg" width="150" height="150">
+<img src="/courses/compsci116/spring19/assets/images/morgan.jpg" width="150" height="150">
 
-**Office Hours** Sunday 4-6pm in Trinity Cafe (East Campus)
+**Office Hours** TBD
 
-**Email** maxwell.bartlett@duke.edu 
+**Email** morghan.a.smith@duke.edu 
 
-<img src="/courses/compsci190/fall18/assets/images/zheng.jpg" width="150" height="150">
+Bogyung Kim
 
-**Office Hours** Thursdays 7-8pm in Vondy (West Campus)
+<img src="/courses/compsci116/spring19/assets/images/bogyung.jpg" width="150" height="150">
 
-**Email** kevin.z.zheng@duke.edu
+**Office Hours** TBD
+
+**Email** bogyung.kim@duke.edu
+
 
 ## Acknowledgements
 
