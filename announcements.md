@@ -4,4 +4,4 @@ layout: posts-simple
 permalink: /
 ---
 
-* Welcome to CompSci 190
+* Welcome to CompSci 116

@@ -23,7 +23,7 @@ projects using the Python programming language. In considering applications, we 
 
 **Phone** (919) 660-6550
 
-**Office Hours** TBD and by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)
+**Office Hours** Mondays 11-12, Tuesdays 9-10, and by apppointment in D235 [LSRC](http://maps.duke.edu/map/?id=21&mrkIid=6561)
 
 
 ### Undergraduate Teaching Assistants
@@ -32,18 +32,26 @@ Morgan Smith
 
 <img src="/courses/compsci116/spring19/assets/images/morgan.jpg" width="150" height="150">
 
-**Office Hours** TBD
+**Office Hours** Mondays 5-6pm in Perkins 128
 
-**Email** morghan.a.smith@duke.edu 
+**Email** morgan.a.smith@duke.edu 
 
 Bogyung Kim
 
 <img src="/courses/compsci116/spring19/assets/images/bogyung.jpg" width="150" height="150">
 
-**Office Hours** TBD
+**Office Hours** Sundays 7-8pm in the Link
 
 **Email** bogyung.kim@duke.edu
 
+## Getting Help
+- [Piazza](https://piazza.com/class/jqr2wzby5ke5fd): Post any questions here
+- Office Hours: UTA & Instructor office hours are listed above
+- Documentation
+    - [datascience library documentation](http://data8.org/datascience/)
+    - [Markdown Guide](https://www.markdownguide.org/)
+    - [Python reference](https://docs.python.org/3/)
+    - [NumPy Manual](https://docs.scipy.org/doc/numpy-1.15.0/)
 
 ## Acknowledgements
 

@@ -10,25 +10,25 @@ This Syllabus is a working document and will be updated.
 
 | Date          | Topic | Notes  | Reading | Assignment
 | ------------- | ----- | ------ | ------- | ----------
-| 2019-01-10 | Lecture 0: Data Science! | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec00.ipynb&branch=master&app=notebook), [Slides](../notes/00-welcome.pdf) |  [Chapter 1](https://dukecs.github.io/textbook/chapters/01/what-is-data-science)  | 
+| 2019-01-10 | Lecture 0: Data Science! | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec00.ipynb&branch=master&app=notebook), [Slides](../notes/01-welcome.pdf) |  [Chapter 1](https://dukecs.github.io/textbook/chapters/01/what-is-data-science)  | 
 | 2019-01-15 | Lab 0: Python |  [Slides](../notes/lab00.pdf) | Chapter [2](https://dukecs.github.io/textbook/chapters/02/causality-and-experiments) &  [3](https://dukecs.github.io/textbook/chapters/03/programming-in-python) | [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab00/lab00.ipynb&branch=master&app=notebook)  
-| 2019-01-17 | Lecture 1: Python Basics |  | Chapter [4](https://dukecs.github.io/textbook/chapters/04/Data_Types) | 
-| 2019-01-22 | Lab 1 | | Chapter [5](https://dukecs.github.io/textbook/chapters/05/Sequences) | 
-| 2019-01-24 | Lecture 2: Arrays and Tables |  | Chapter [6](https://dukecs.github.io/textbook/chapters/06/Tables) | 
-| 2019-01-29 | Lab 2 |  |  | 
-| 2019-01-31 | Lecture 3: Visualization |  |  Chapter [7](https://dukecs.github.io/textbook/chapters/07/Visualization) | 
-| 2019-02-05 | Lab 3 |  |  | 
-| 2019-02-07 | Lecture 4 |  | Chapter [8](https://dukecs.github.io/textbook/chapters/08/Functions_and_Tables) & [9](https://dukecs.github.io/textbook/chapters/09/Randomness) | 
-| 2019-02-12 | Lab 4 |  |  | 
-| 2019-02-14 | Lecture 5 |  | Chapter [10](https://dukecs.github.io/textbook/chapters/10/Sampling_and_Empirical_Distributions) | 
+| 2019-01-17 | Lecture 1: Python Basics | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec02.ipynb&branch=master&app=notebook), [Slides](../notes/02-python.pdf) | Chapter [4](https://dukecs.github.io/textbook/chapters/04/Data_Types) | 
+| 2019-01-22 | Lab 1 | | Chapter [5](https://dukecs.github.io/textbook/chapters/05/Sequences) | [iRA](http://bit.ly/FoDS-s19-lab1-iRA), [tRA](http://bit.ly/FoDS-s19-lab1-tRA), & [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab01/lab01.ipynb&branch=master&app=notebook)
+| 2019-01-24 | Lecture 2: Arrays and Tables | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec03.ipynb&branch=master&app=notebook), [Slides](../notes/03-tables.pdf) | Chapter [6](https://dukecs.github.io/textbook/chapters/06/Tables) | [HW 1](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=hw/hw01/hw01.ipynb&branch=master&app=notebook) |
+| 2019-01-29 | Lab 2: Tables |  | | [iRA](http://bit.ly/FoDS-s19-lab2-iRA), [tRA](http://bit.ly/FoDS-s19-lab2-tRA), & [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab02/lab02.ipynb&branch=master&app=notebook)   [HW 2](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=hw/hw02/hw02.ipynb&branch=master&app=notebook) |
+| 2019-01-31 | Lecture 3: Visualization | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec03b.ipynb&branch=master&app=notebook), [Slides](../notes/03-viz.pdf) |  Chapter [7](https://dukecs.github.io/textbook/chapters/07/Visualization) | 
+| 2019-02-05 | Lab 3: Viz | [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab03/lab03.ipynb&branch=master&app=notebook)  | Chapter [8](https://dukecs.github.io/textbook/chapters/08/Functions_and_Tables)  |  [iRA](http://bit.ly/FoDS-s19-lab3-iRA), [tRA](http://bit.ly/FoDS-s19-lab3-tRA), & **[Project 1](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=proj/proj1/project1.ipynb&branch=master&app=notebook)**
+| 2019-02-07 | Lecture 4: Functions & Probability | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec04.ipynb&branch=master&app=notebook), [Slides](../notes/04-func.pdf) |  Chapter [9](https://dukecs.github.io/textbook/chapters/09/Randomness) | 
+| 2019-02-12 | Lab 4: Functions |  [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab04/lab04.ipynb&branch=master&app=notebook) |  |  [iRA](http://bit.ly/FoDS-s19-lab4-iRA), [tRA](http://bit.ly/FoDS-s19-lab4-tRA)
+| 2019-02-14 | Lecture 5: Stats | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec05.ipynb&branch=master&app=notebook), [Slides](../notes/05-chance.pdf) | [Review questions](../notes/test1-review.pdf), [Fall18 Test 1](../notes/test1-fall18.pdf) | 
 | 2019-02-19 | Midterm Exam 1  |  |  | 
-| 2019-02-21 | Lecture 6 |  |  | 
-| 2019-02-26 | Lab 5 |  |  | 
-| 2019-02-28 | Lecture 7 |  |  | 
-| 2019-03-05 | Lab 6 |  |  | 
-| 2019-03-07 | Lecture 8 |  |  | 
-| 2019-03-19 | Lab 7 |  |  | 
-| 2019-03-21 | Lecture 9 |  |  | 
+| 2019-02-21 | Lecture 6: Sampling | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec06.ipynb&branch=master&app=notebook), [Slides](../notes/06-sampling.pdf)  | Chapters [10](https://dukecs.github.io/textbook/chapters/10/sampling-and-empirical-distributions.html) and [11](https://dukecs.github.io/textbook/chapters/11/testing-hypotheses.html) | [HW 3](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=hw/hw03/hw03.ipynb&branch=master&app=notebook) |
+| 2019-02-26 | Lecture 7: Hypotheses | [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec07.ipynb&branch=master&app=notebook), [Slides](../notes/07-hypothesis.pdf)  | Chapter [12](https://dukecs.github.io/textbook/chapters/12/Comparing_Two_Samples) | 
+| 2019-02-28 | Lab 5: TT Hypotheses |  [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab05/lab05.ipynb&branch=master&app=notebook) |  |  [iRA](http://bit.ly/FoDS-s19-lab5-iRA), [tRA](http://bit.ly/FoDS-s19-lab5-tRA) & **[Project 2](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=proj/proj2/project2.ipynb&branch=master&app=notebook)**
+| 2019-03-05 | Lecture 8: A/B Testing |  [Demos](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lec/lec08.ipynb&branch=master&app=notebook), [Slides](../notes/08-abtesting.pdf) | Chapter [13](https://dukecs.github.io/textbook/chapters/13/Estimation) | 
+| 2019-03-07 | Lab 6: Resampling | [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab06/lab06.ipynb&branch=master&app=notebook)  [Slides](../notes/08-lab06.pdf) |  |  [iRA](http://bit.ly/FoDS-s19-lab6-iRA), [tRA](http://bit.ly/FoDS-s19-lab6-tRA)
+| 2019-03-19 | Lab 7 |  [Lab](http://jupyterhub.cs.duke.edu/hub/user-redirect/git-pull?repo=https://github.com/DukeCS/FoDS-s19&subPath=lab/lab07/lab07.ipynb&branch=master&app=notebook) |  | 
+| 2019-03-21 | Lecture 9: Guest Lecture on Effective Visualization |  |  | 
 | 2019-03-26 | Lab 8 |  |  | 
 | 2019-03-28 | Lecture 10 |  |  | 
 | 2019-04-02 | Lab 9 |  |  | 

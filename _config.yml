@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Duke Computer Science"
 description              : "Introduction to programming and statistical infernece"
 url                      : "https://www.cs.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/courses/compsci190/fall18" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/courses/compsci116/spring19" # the subpath of your site, e.g. "/blog"
 hub_url                  : "http://jupyterhub.cs.duke.edu"  # The URL for your JupyterHub. Should be a string.
 hub_name                 : "JupyterHub"  # The name of your JupyterHub
 textbook_url             : "https://github.com/DukeCS/textbook"  # The URL for your version of the textbook on GitHub.
